@@ -1,0 +1,112 @@
+[
+  {
+    "meal_id": "none",
+    "category": "선택 안 함",
+    "name": "선택 안 함",
+    "description": "기내식 선택 없이 진행",
+    "price_krw": 0,
+    "image": "",
+    "is_active": true
+  },
+  {
+    "meal_id": "bibimbap",
+    "category": "한식",
+    "name": "비빔밥",
+    "description": "다양한 나물과 채소를 곁들인 한국식 비빔밥",
+    "price_krw": 12000,
+    "image": "assets/meal/bibimbap.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "jeyuk",
+    "category": "한식",
+    "name": "제육볶음",
+    "description": "매콤달콤한 돼지고기 볶음과 밥",
+    "price_krw": 13000,
+    "image": "assets/meal/jeyuk.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "fish_chips",
+    "category": "해산물식",
+    "name": "피시 앤 칩스",
+    "description": "바삭한 생선튀김과 감자튀김",
+    "price_krw": 14000,
+    "image": "assets/meal/fish_chips.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "salmon_veg",
+    "category": "해산물식",
+    "name": "연어구이와 채소",
+    "description": "구운 연어와 채소를 곁들인 메뉴",
+    "price_krw": 17000,
+    "image": "assets/meal/salmon_veg.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "steak_potato",
+    "category": "육류식",
+    "name": "소고기 스테이크와 치즈 감자",
+    "description": "스테이크와 치즈, 매쉬포테이토 구성",
+    "price_krw": 19000,
+    "image": "assets/meal/steak_potato.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "pork_stew",
+    "category": "육류식",
+    "name": "돼지고기 스튜",
+    "description": "진한 소스의 돼지고기 스튜",
+    "price_krw": 15000,
+    "image": "assets/meal/pork_stew.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "kid_omelette",
+    "category": "어린이식",
+    "name": "오므라이스",
+    "description": "부드러운 달걀과 볶음밥",
+    "price_krw": 10000,
+    "image": "assets/meal/kid_omelette.png",
+    "is_active": true,
+    "child_only": true
+  },
+  {
+    "meal_id": "kid_pork_cutlet",
+    "category": "어린이식",
+    "name": "돈까스",
+    "description": "바삭한 돈까스와 곁들임 메뉴",
+    "price_krw": 11000,
+    "image": "assets/meal/kid_pork_cutlet.png",
+    "is_active": true,
+    "child_only": true
+  },
+  {
+    "meal_id": "beef_burger",
+    "category": "스페셜 메뉴",
+    "name": "소고기버거 세트",
+    "description": "육즙 가득한 소고기 패티와 감자튀김 세트",
+    "price_krw": 16000,
+    "image": "assets/meal/beef_burger.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "vegetable_porridge",
+    "category": "조식",
+    "name": "야채죽",
+    "description": "채소를 넣어 끓인 부드러운 죽",
+    "price_krw": 10000,
+    "image": "assets/meal/vegetable_porridge.png",
+    "is_active": true
+  },
+  {
+    "meal_id": "hashbrown_scramble",
+    "category": "조식",
+    "name": "해시브라운 & 스크램블 에그",
+    "description": "클래식 아침 식사 메뉴",
+    "price_krw": 12000,
+    "image": "assets/meal/hashbrown_scramble.png",
+    "is_active": true
+  }
+]
